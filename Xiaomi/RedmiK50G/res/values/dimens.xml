@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rounded_corner_radius">63.0px</dimen>
+    <dimen name="rounded_corner_radius_bottom">63.0px</dimen>
+    <dimen name="rounded_corner_radius_top">63.0px</dimen>
+</resources>
